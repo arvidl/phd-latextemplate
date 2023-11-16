@@ -124,6 +124,6 @@ Possible ways to use Latex:
 
 3. [Using Atom as a LaTeX editor](https://medium.com/@lucasrebscher/using-atom-as-a-latex-editor-93756de3d726)
 
-4. [Overleaf](https://www.overleaf.com/) (Recommended)
+4. [Overleaf](https://www.overleaf.com/) (**Recommended**)
 
 5. [TeXstudio](https://www.texstudio.org/)
