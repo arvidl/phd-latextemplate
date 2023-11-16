@@ -1,7 +1,9 @@
 Introduction
 ============
 
-Latex template for HVL PhD dissertations.
+First: Thanks to https://github.com/selabhvl/hvl-phd-latextemplate !
+
+Latex template for HVL PhD dissertations (modified to fit UiB)
 
 The template uses the latexmk to compile the latex to pdf by running a makefile enclosed.
 
